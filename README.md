@@ -28,5 +28,4 @@ npm start
 - `npm run format` — formata arquivos com Prettier
 
 # Crimesmap
-# Crimesmap
-# CrimesMap
+
